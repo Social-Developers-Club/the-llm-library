@@ -1,0 +1,11 @@
+google-cloud-storage 
+google-cloud-bigquery 
+google-cloud-aiplatform 
+langchain 
+PyPDF2
+
+google-cloud-aiplatform 
+"langchain-google-vertexai" 
+"langchain-google-community[featurestore]" 
+pypdf==4.2.0
+unstructured
